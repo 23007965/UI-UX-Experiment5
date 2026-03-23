@@ -69,6 +69,14 @@ Discovered major usability gaps including:
 
 #### Government Service Portal
 
+Discovered major usability gaps including:
+
+• Difficult navigation and unclear steps
+
+• Long and complex forms
+
+• Limited user control 
+
 Redesign included:
 
 • Simplified user journeys with fewer steps
