@@ -52,21 +52,31 @@ Users need a way to control their input during processes because rigid and non-e
 Identified key challenges such as lack of prioritization, unclear progress tracking, and ineffective suggestions. Designed features that:
 
 • Introduce priority-based daily goals (Top 3 focus tasks)
+
 • Provide clear progress indicators (streaks, completion bars)
+
 • Deliver adaptive and realistic recommendations
+
 • Reduce clutter with a simplified and focused interface
 
 Discovered major usability gaps including:
+
 • Difficult navigation and unclear steps
+
 • Long and complex forms
-• Limited user control (e.g., non-editable fields)
+
+• Limited user control 
 
 #### Government Service Portal
 
 Redesign included:
+
 • Simplified user journeys with fewer steps
+
 • Editable fields and better user control
+
 • Plain-language instructions
+
 • Improved accessibility for elderly and non-technical users
 
 Personas ensured diverse user needs were addressed.
